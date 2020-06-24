@@ -149,7 +149,7 @@
           <br>
           <br>
         
-          <p style="text-align:right; font-size:13px;">(    Antonius Roby    ) <br></p>
+          <p style="text-align:right; font-size:13px;"> (    Antonius Roby    ) <br></p>
       
          <?php }else{ ?>
            <p>Tanggal Harus ditentukan dulu.</p>
